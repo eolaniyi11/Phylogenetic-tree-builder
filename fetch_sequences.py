@@ -16,7 +16,7 @@ for the Entrez API, not optional).
 from Bio import Entrez, SeqIO
 
 # --- Configuration ---
-Entrez.email = "eolaniyi11@gmail.com"  
+Entrez.email = "email@example.com"  
 OUTPUT_FILE = "data/sample_sequences.fasta"
 
 
