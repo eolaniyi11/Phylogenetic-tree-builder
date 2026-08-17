@@ -22,9 +22,10 @@ OUTPUT_FILE = "data/sample_sequences.fasta"
 # Example accession numbers — replace with sequences relevant to your project.
 # You can find accessions by searching https://www.ncbi.nlm.nih.gov/nuccore
 ACCESSIONS = [
-    "NM_001101.5",
-    "NM_205518.1",
-    "NM_000207.3",  # SARS-CoV-2 reference genome (Wuhan-Hu-1)
+    "NC_012920.1",
+    "NC_001643.1",
+    "NC_005089.1",
+      # SARS-CoV-2 reference genome (Wuhan-Hu-1)
     # Add more accession numbers here, e.g. for different variants/species
 ]
 
